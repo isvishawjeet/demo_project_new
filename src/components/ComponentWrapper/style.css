@@ -1,0 +1,26 @@
+.component-wrapper {
+  height: 17px;
+  position: relative;
+  width: 133px;
+}
+
+.component-wrapper .healthicons-blood {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.component-wrapper .text-wrapper-2 {
+  color: #084943;
+  font-family: "Poppins", Helvetica;
+  font-size: 11.1px;
+  font-weight: 600;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}

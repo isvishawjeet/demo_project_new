@@ -1,0 +1,25 @@
+.component-49 {
+  background-color: #88c2c8;
+  border-radius: 24px;
+  height: 72px;
+  position: relative;
+  width: 412px;
+}
+
+.component-49:hover {
+  background-color: #084943;
+}
+
+.component-49 .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 30.5px;
+  font-weight: 600;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}

@@ -1,0 +1,15 @@
+.property-default-wrapper {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.property-default-wrapper.default {
+  height: 497px;
+  width: 1361px;
+}
+
+.property-default-wrapper.variant-2 {
+  height: 448px;
+  width: 1389px;
+}

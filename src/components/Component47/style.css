@@ -1,0 +1,43 @@
+.component-47 {
+  border-radius: 32.3px;
+  height: 92px;
+  position: relative;
+  width: 401px;
+}
+
+.component-47 .why-CAN {
+  color: #ffffff;
+  font-family: "Rubik", Helvetica;
+  font-size: 50.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 56.2px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.component-47.property-1-default {
+  background-color: #88c2c8;
+}
+
+.component-47.property-1-variant-3 {
+  background-color: #88c2c8;
+}
+
+.component-47.property-1-variant-2 {
+  background-color: #084943;
+}
+
+.component-47.property-1-default .why-CAN {
+  left: 82px;
+}
+
+.component-47.property-1-variant-3 .why-CAN {
+  left: 90px;
+}
+
+.component-47.property-1-variant-2 .why-CAN {
+  left: 90px;
+}

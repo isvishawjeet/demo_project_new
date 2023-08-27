@@ -1,0 +1,36 @@
+.component {
+  align-items: center;
+  background-color: #0a4943;
+  border-radius: 23.52px;
+  display: inline-flex;
+  gap: 7.13px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 7.13px 31.36px;
+  position: relative;
+}
+
+.component:hover {
+  border-radius: 25.84px;
+  padding: 7.84px 34.21px;
+}
+
+.component .text-wrapper {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 19.5px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.71px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component:hover .text-wrapper {
+  font-size: 21.4px;
+  font-weight: 600;
+  margin-top: -4.7px;
+}
